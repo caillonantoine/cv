@@ -2,43 +2,34 @@
 layout: cv
 title: Curriculum Vitae 
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Antoine Caillon
+PhD student in deep generative modelling applied to musical signals.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="caillon@ircam.fr">caillon@ircam.fr</a>
+| <a href="https://github.com/caillonantoine">github page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+PhD student at [ircam](ircam.fr) (paris)
 
-### Specialized in
+### PhD Subject
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Hierachical temporal learning for multi-instrument and orchestral audio synthesis
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Neural audio synthesis, real-time implementation of deep generative models, artistic use of artificial intelligence
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2020-now`
+__PhD: Hierachical temporal learning for multi-instrument and orchestral audio synthesis__
+- ircam (paris)
 
 
 
