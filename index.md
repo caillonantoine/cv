@@ -40,28 +40,42 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Signal filtering, source separation, machine learning, Reactive programming, modelisation and synthesis of different instruments
 
 `2017-2018`
-\_\_ Master
+**Master Degree 1 Engineering Sciences**
 
-## Awards
+- Sorbonne Université (Paris IV)
+- Signal processing, acoustic, mecanic, numeric methods (finite element method, finite difference method)
 
-`2012`
-President, _Royal Society_, London, UK
+`2015-2017`
+**Mathematic degree**
 
-Associate, _French Academy of Science_, Paris, France
+- Sorbonne Université (Paris IV)
+
+`2012-2014`
+**Sound engineering degree**
+
+- ITEMM, Le Mans
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2021`
+[**RAVE: A variational autoencoder for fast and high-quality neural audio synthesis**](https://arxiv.org/abs/2111.05011)
 
-### Journals
+- Preprint
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas.
+`2020`
+[**Timbre latent space: exploration and creative aspects**](https://arxiv.org/abs/2008.01370)
 
-`1669`
-Lectiones opticæ.
+- TIMBRE 2020
 
-etc. etc. etc.
+`2020`
+[**Diet deep generative audio models with structured lottery**](https://arxiv.org/abs/2007.16170)
+
+- DaFX 2020
+
+`2019`
+[**Assisted Sound Sample Generation with Musical Conditioning in Adversarial Auto-Encoders**](https://arxiv.org/abs/1904.06215)
+
+- DaFX 2019
 
 ### Patents
 
