@@ -60,39 +60,25 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 `2021`
 [**RAVE: A variational autoencoder for fast and high-quality neural audio synthesis**](https://arxiv.org/abs/2111.05011)
 
+- **Antoine Caillon**, Philippe Esling
 - Preprint
 
 `2020`
 [**Timbre latent space: exploration and creative aspects**](https://arxiv.org/abs/2008.01370)
 
+- **Antoine Caillon**, Adrien Bitton, Brice Gatinet, Philippe Esling
 - TIMBRE 2020
 
 `2020`
 [**Diet deep generative audio models with structured lottery**](https://arxiv.org/abs/2007.16170)
+
+- Philippe Esling, Ninon Devis, Adrien Bitton, **Antoine Caillon**, Axel Chemla–Romeu-Santos, Constance Douwes
 
 - DaFX 2020
 
 `2019`
 [**Assisted Sound Sample Generation with Musical Conditioning in Adversarial Auto-Encoders**](https://arxiv.org/abs/1904.06215)
 
+- Adrien Bitton, Philippe Esling, **Antoine Caillon**, Martin Fouilleul
 - DaFX 2019
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-## Occupation
-
-`1600`
-**Royal Mint**, London
-
-- Warden
-- Minted coins
-
-`1600`
-**Lucasian professor of Mathematics**, Cambridge University
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
