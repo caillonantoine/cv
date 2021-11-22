@@ -73,7 +73,6 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 [**Diet deep generative audio models with structured lottery**](https://arxiv.org/abs/2007.16170)
 
 - Philippe Esling, Ninon Devis, Adrien Bitton, **Antoine Caillon**, Axel Chemla–Romeu-Santos, Constance Douwes
-
 - DaFX 2020
 
 `2019`
