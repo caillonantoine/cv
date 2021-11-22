@@ -1,15 +1,16 @@
 ---
 layout: cv
-title: Curriculum Vitae 
+title: Curriculum Vitae
 ---
+
 # Antoine Caillon
+
 PhD student in deep generative modelling applied to musical signals.
 
 <div id="webaddress">
-<a href="caillon@ircam.fr">caillon@ircam.fr</a>
+<a href="mailto:caillon@ircam.fr">caillon@ircam.fr</a>
 | <a href="https://github.com/caillonantoine">github page</a>
 </div>
-
 
 ## Currently
 
@@ -19,28 +20,34 @@ PhD student at [ircam](ircam.fr) (paris)
 
 Hierachical temporal learning for multi-instrument and orchestral audio synthesis
 
-
 ### Research interests
 
 Neural audio synthesis, real-time implementation of deep generative models, artistic use of artificial intelligence
 
-
 ## Education
 
 `2020-now`
-__PhD: Hierachical temporal learning for multi-instrument and orchestral audio synthesis__
+**PhD: Hierachical temporal learning for multi-instrument and orchestral audio synthesis**
+
 - ircam (paris)
+- [Actor project](https://www.actorproject.org/)
 
+`2018-2019`
+**Master Degree 2 ATIAM**
 
+- ircam (paris)
+- Obtained with **High Honours**
+- Signal filtering, source separation, machine learning, Reactive programming, modelisation and synthesis of different instruments
+
+`2017-2018`
+\_\_ Master
 
 ## Awards
 
 `2012`
-President, *Royal Society*, London, UK
+President, _Royal Society_, London, UK
 
-Associate, *French Academy of Science*, Paris, France
-
-
+Associate, _French Academy of Science_, Paris, France
 
 ## Publications
 
@@ -49,7 +56,7 @@ Associate, *French Academy of Science*, Paris, France
 ### Journals
 
 `1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 
 `1669`
 Lectiones opticæ.
@@ -61,22 +68,17 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
-
 ## Occupation
 
 `1600`
-__Royal Mint__, London
+**Royal Mint**, London
 
 - Warden
 - Minted coins
 
 `1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+**Lucasian professor of Mathematics**, Cambridge University
 
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
