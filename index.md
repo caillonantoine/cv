@@ -82,3 +82,22 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Adrien Bitton, Philippe Esling, **Antoine Caillon**, Martin Fouilleul
 - DaFX 2019
 
+## Collaborations
+
+`2021`
+**work in progress**
+
+- Maxime Mantovani
+- Latent exploration with custom controllers and prior matching techniques
+
+`2019-2020`
+**Convergence**
+
+- Alexander Schubert, in collaboration with **Antoine Caillon**, Philippe Esling and Jorge Davila-Chacon
+- Awarded with a Golden Nica (Ars Electronica 2020) in Digital arts ([see here](https://calls.ars.electronica.art/prix/winners/7320/))
+
+`2019-2020`
+**unknown title**
+
+- Brice Gatinet, in collaboration with **Antoine Caillon**
+- Creation of _wavae_, initial work on real-time use of deep learning models
