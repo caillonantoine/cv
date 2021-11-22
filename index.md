@@ -10,6 +10,7 @@ PhD student in deep generative modelling applied to musical signals.
 <div id="webaddress">
 <a href="mailto:caillon@ircam.fr">caillon@ircam.fr</a>
 | <a href="https://github.com/caillonantoine">github page</a>
+| <a href="caillonantoine.github.io">website</a>
 </div>
 
 ## Currently
