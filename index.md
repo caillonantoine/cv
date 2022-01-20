@@ -85,7 +85,7 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 ## Collaborations
 
 `2021`
-**work in progress**
+**Improvisation, apprentissage profond et fusion d’espace latent**
 
 - [Maxime Mantovani](https://www.maximemantovani.com/)
 - Latent exploration with custom controllers and prior matching techniques
