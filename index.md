@@ -101,3 +101,17 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 - [Brice Gatinet](https://www.ircam.fr/person/brice-gatinet/), in collaboration with **Antoine Caillon**
 - Creation of _wavae_, initial work on real-time use of deep learning models
+
+
+## Teaching
+
+`2020-now`
+**Machine learning project**
+
+- Master 2 ATIAM
+- 3 months project
+
+`2020-now`
+**React Native course**
+
+- L3 Sorbonne Université
