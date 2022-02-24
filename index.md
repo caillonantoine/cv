@@ -82,6 +82,27 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Adrien Bitton, Philippe Esling, **Antoine Caillon**, Martin Fouilleul
 - DaFX 2019
 
+## Projects
+
+`2022`
+[**nn~ : a Max/MSP external for real-time ai audio processing**](https://github.com/acids-ircam/nn_tilde)
+
+- **Antoine Caillon**
+- open source code for the nn~ external
+
+`2021-2022`
+[**RAVE: Official implementation**](https://github.com/caillonantoine/RAVE)
+
+- **Antoine Caillon**
+- open source code for the RAVE model
+
+`2020`
+[**ddsp_pytorch**](https://github.com/acids-ircam/ddsp_pytorch)
+
+- **Antoine Caillon**
+- Based on the work from _magenta_
+- Real-time implementation of the DDSP model
+
 ## Collaborations
 
 `2021`
@@ -101,7 +122,6 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 - [Brice Gatinet](https://www.ircam.fr/person/brice-gatinet/), in collaboration with **Antoine Caillon**
 - Creation of _wavae_, initial work on real-time use of deep learning models
-
 
 ## Teaching
 
