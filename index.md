@@ -103,6 +103,24 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Based on the work from _magenta_
 - Real-time implementation of the DDSP model
 
+## Internships
+
+`2019`
+**Speech transformation using generative deep models**
+
+- **technicolor**, Rennes
+- Alexey Ozerov, Ngoc Q. K. Duong
+- 6-month internship on the use of deep learning models to age or de-age speech.
+- _Deep Learning, Audio processing_
+
+`2018`
+**Udwadia-Kalaba formulation applied to the modelling of Gabonese harps**
+
+- **LAM**, Sorbonne Université, Paris
+- Jean-Loïc Le Carrou
+- Physical modeling of string instruments with sympathetic vibrations and nonlinear behavior
+- _autoregressive physical modeling, CUDA kernel development_
+
 ## Collaborations
 
 `2021`
