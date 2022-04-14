@@ -103,24 +103,6 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Based on the work from _magenta_
 - Real-time implementation of the DDSP model
 
-## Internships
-
-`2019`
-**Speech transformation using generative deep models**
-
-- **technicolor**, Rennes
-- Alexey Ozerov, Ngoc Q. K. Duong
-- 6-month internship on the use of deep learning models to age or de-age speech.
-- Deep Learning, Audio processing
-
-`2018`
-**Udwadia-Kalaba formulation applied to the modelling of Gabonese harps**
-
-- **LAM**, Sorbonne Université, Paris
-- Jean-Loïc Le Carrou
-- Physical modeling of string instruments with sympathetic vibrations and nonlinear behavior
-- autoregressive physical modeling, CUDA kernel development
-
 ## Collaborations
 
 `2021`
@@ -141,6 +123,14 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - [Brice Gatinet](https://www.ircam.fr/person/brice-gatinet/), in collaboration with **Antoine Caillon**
 - Creation of _wavae_, initial work on real-time use of deep learning models
 
+## Master class
+
+`2022`
+**Neural Audio Synthesis**
+
+- Université de Cergy
+- Hochschule für Musik und Theater Hamburg
+
 ## Teaching
 
 `2020-now`
@@ -153,3 +143,21 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 **React Native course**
 
 - L3 Sorbonne Université
+
+## Internships
+
+`2019`
+**Speech transformation using generative deep models**
+
+- **technicolor**, Rennes
+- Alexey Ozerov, Ngoc Q. K. Duong
+- 6-month internship on the use of deep learning models to age or de-age speech.
+- Deep Learning, Audio processing
+
+`2018`
+**Udwadia-Kalaba formulation applied to the modelling of Gabonese harps**
+
+- **LAM**, Sorbonne Université, Paris
+- Jean-Loïc Le Carrou
+- Physical modeling of string instruments with sympathetic vibrations and nonlinear behavior
+- autoregressive physical modeling, CUDA kernel development
