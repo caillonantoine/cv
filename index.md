@@ -58,6 +58,12 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 ## Publications
 
+`2022`
+[**Streamable Neural Audio Synthesis With Non-Causal Convolutions**]https://arxiv.org/abs/2204.07064)
+
+- **Antoine Caillon**, Philippe Esling
+- Preprint
+
 `2021`
 [**RAVE: A variational autoencoder for fast and high-quality neural audio synthesis**](https://arxiv.org/abs/2111.05011)
 
