@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Antoine Caillon
 
-PhD student in deep generative modelling applied to musical signals.
+PhD student in deep generative modeling applied to musical signals.
 
 <div id="webaddress">
 <a href="mailto:caillon@ircam.fr">caillon@ircam.fr</a>
@@ -15,7 +15,7 @@ PhD student in deep generative modelling applied to musical signals.
 
 ## Currently
 
-PhD student at [ircam](ircam.fr) (paris)
+PhD student at [ircam](ircam.fr) (paris). **Defense planned on February, 21th 2023**.
 
 ### PhD Subject
 
@@ -56,13 +56,32 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 - ITEMM, Le Mans
 
+## Previous positions
+
+`2019`
+**Speech transformation using generative deep models**
+
+- **technicolor**, Rennes
+- Alexey Ozerov, Ngoc Q. K. Duong
+- 6-month internship on the use of deep learning models to age or de-age speech.
+- Deep Learning, Audio processing
+
+`2018`
+**Udwadia-Kalaba formulation applied to the modelling of Gabonese harps**
+
+- **LAM**, Sorbonne Université, Paris
+- Jean-Loïc Le Carrou
+- Physical modeling of string instruments with sympathetic vibrations and nonlinear behavior
+- autoregressive physical modeling, CUDA kernel development
+
+
 ## Publications
 
 `2022`
-[**Streamable Neural Audio Synthesis With Non-Causal Convolutions**]https://arxiv.org/abs/2204.07064)
+[**Streamable Neural Audio Synthesis With Non-Causal Convolutions**](https://arxiv.org/abs/2204.07064)
 
 - **Antoine Caillon**, Philippe Esling
-- Preprint
+- DAFx 2020in22
 
 `2021`
 [**RAVE: A variational autoencoder for fast and high-quality neural audio synthesis**](https://arxiv.org/abs/2111.05011)
@@ -88,7 +107,7 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Adrien Bitton, Philippe Esling, **Antoine Caillon**, Martin Fouilleul
 - DaFX 2019
 
-## Projects
+## Repositories
 
 `2022`
 [**nn~ : a Max/MSP external for real-time ai audio processing**](https://github.com/acids-ircam/nn_tilde)
@@ -109,7 +128,14 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Based on the work from _magenta_
 - Real-time implementation of the DDSP model
 
+
 ## Collaborations
+
+`2021-2022`
+**ANIMA TM**
+
+- [Alexander Schubert](https://www.alexanderschubert.net/), in collaboration with **Antoine Caillon**
+- Performed at Centre Georges Pompidou ([see description here](https://manifeste.ircam.fr/agenda/anima-tm/detail/))
 
 `2021`
 **Improvisation, apprentissage profond et fusion d’espace latent**
@@ -129,13 +155,18 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - [Brice Gatinet](https://www.ircam.fr/person/brice-gatinet/), in collaboration with **Antoine Caillon**
 - Creation of _wavae_, initial work on real-time use of deep learning models
 
+
 ## Master class
 
 `2022`
 **Neural Audio Synthesis**
-
 - Université de Cergy
+
+**Neural Audio Synthesis**
 - Hochschule für Musik und Theater Hamburg
+
+**RAVE + nn~**
+- [BERGEN SENTER FOR ELEKTRONISK KUNST](https://bek.no/en/workshop-machine-learning-for-sound-makers-rave/)
 
 ## Teaching
 
@@ -150,20 +181,3 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 - L3 Sorbonne Université
 
-## Internships
-
-`2019`
-**Speech transformation using generative deep models**
-
-- **technicolor**, Rennes
-- Alexey Ozerov, Ngoc Q. K. Duong
-- 6-month internship on the use of deep learning models to age or de-age speech.
-- Deep Learning, Audio processing
-
-`2018`
-**Udwadia-Kalaba formulation applied to the modelling of Gabonese harps**
-
-- **LAM**, Sorbonne Université, Paris
-- Jean-Loïc Le Carrou
-- Physical modeling of string instruments with sympathetic vibrations and nonlinear behavior
-- autoregressive physical modeling, CUDA kernel development
