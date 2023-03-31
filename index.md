@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Antoine Caillon
 
-PhD student in deep generative modeling applied to musical signals.
+Doctor in deep generative modeling applied to musical signals.
 
 <div id="webaddress">
 <a href="mailto:caillon@ircam.fr">caillon@ircam.fr</a>
@@ -15,7 +15,7 @@ PhD student in deep generative modeling applied to musical signals.
 
 ## Currently
 
-PhD student at [ircam](ircam.fr) (paris). **Defense planned on February, 21th 2023**.
+Post-doc at [ircam](ircam.fr) (paris).
 
 ### PhD Subject
 
@@ -27,7 +27,7 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 ## Education
 
-`2020-now`
+`2020-2023`
 **PhD: Hierachical temporal learning for multi-instrument and orchestral audio synthesis**
 
 - ircam (paris)
@@ -58,24 +58,31 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 ## Previous positions
 
-`2019`
-**Speech transformation using generative deep models**
+`2022`
+**Google Brain**, invited student researcher
+- Neil Zeghidour, Jesse Engel
+- 8-months project, multimodal modeling of raw audio signals
+- Speech processing, music processing, large scale modeling
+- Work on MusicLM and SingSong
 
-- **technicolor**, Rennes
+`2019`
+**Technicolor**, intern
 - Alexey Ozerov, Ngoc Q. K. Duong
 - 6-month internship on the use of deep learning models to age or de-age speech.
 - Deep Learning, Audio processing
 
-`2018`
-**Udwadia-Kalaba formulation applied to the modelling of Gabonese harps**
-
-- **LAM**, Sorbonne Université, Paris
-- Jean-Loïc Le Carrou
-- Physical modeling of string instruments with sympathetic vibrations and nonlinear behavior
-- autoregressive physical modeling, CUDA kernel development
-
-
 ## Publications
+
+`2022`
+[**SingSong: Generating musical accompaniments from singing**](https://arxiv.org/abs/2301.12662)
+
+- Chris Donahue, **Antoine Caillon**, Adam Roberts et al.
+- Preprint
+
+`2022`
+[**MusicLM: Generating Music From Text**](https://arxiv.org/abs/2301.11325)
+
+- Preprint
 
 `2022`
 [**Streamable Neural Audio Synthesis With Non-Causal Convolutions**](https://arxiv.org/abs/2204.07064)
