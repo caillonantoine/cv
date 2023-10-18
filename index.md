@@ -8,14 +8,14 @@ title: Curriculum Vitae
 Doctor in deep generative modeling applied to musical signals.
 
 <div id="webaddress">
-<a href="mailto:caillon@ircam.fr">caillon@ircam.fr</a>
+<a href="mailto:acaillon@google.com">acaillon@google.com</a>
 | <a href="https://github.com/caillonantoine">github page</a>
 | <a href="https://caillonantoine.github.io">website</a>
 </div>
 
 ## Currently
 
-Post-doc at [ircam](ircam.fr) (paris).
+Research Scientist at [Google DeepMind](https://www.deepmind.com/).
 
 ### PhD Subject
 
