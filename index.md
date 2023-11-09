@@ -31,6 +31,10 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 **PhD: Hierachical temporal learning for multi-instrument and orchestral audio synthesis**
 
 - ircam (paris)
+- Directed by [Philippe Esling](https://esling.github.io/)
+- Obtained with **High Honours**
+- [PhD manuscript](https://theses.hal.science/tel-04137258)
+- [Defense](https://www.youtube.com/watch?v=KS7REAEhyJQ)
 - [Actor project](https://www.actorproject.org/)
 
 `2018-2019`
