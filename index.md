@@ -151,7 +151,7 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 
 `2024`
 **Jacob Collier**
-- Artist consultancy on the development of the [MusicFX DJ](labs.google/musicfx) model
+- Artist consultancy on the development of the [MusicFX DJ](https://labs.google/musicfx) model
 
 `2021-2022`
 **ANIMA TM**
