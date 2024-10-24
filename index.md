@@ -5,7 +5,7 @@ title: Curriculum Vitae
 
 # Antoine Caillon
 
-Doctor in deep generative modeling applied to musical signals.
+Research scientist - deep generative modeling applied to musical signals.
 
 <div id="webaddress">
 <a href="mailto:acaillon@google.com">acaillon@google.com</a>
@@ -68,6 +68,13 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - 8-months project, multimodal modeling of raw audio signals
 - Speech processing, music processing, large scale modeling
 - Work on MusicLM and SingSong
+
+`2020-2023`
+**IRCAM**, PhD student
+
+`2019`
+**IRCAM**, Software engineer
+- 2-months project, building the models behind Alexander Schubert's [convergence](https://calls.ars.electronica.art/prix/winners/7320/) piece
 
 `2019`
 **Technicolor**, intern
@@ -140,29 +147,29 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Real-time implementation of the DDSP model
 
 
-## Collaborations
+## Artistic collaborations
+
+`2024`
+**Jacob Collier**
+- Artist consultancy on the development of the [MusicFX DJ](labs.google/musicfx) model
 
 `2021-2022`
 **ANIMA TM**
-
 - [Alexander Schubert](https://www.alexanderschubert.net/), in collaboration with **Antoine Caillon**
 - Performed at Centre Georges Pompidou ([see description here](https://manifeste.ircam.fr/agenda/anima-tm/detail/))
 
 `2021`
 **Improvisation, apprentissage profond et fusion d’espace latent**
-
 - [Maxime Mantovani](https://www.maximemantovani.com/)
 - Latent exploration with custom controllers and prior matching techniques
 
 `2019-2020`
 **Convergence**
-
 - [Alexander Schubert](https://www.alexanderschubert.net/), in collaboration with **Antoine Caillon**, Philippe Esling and Jorge Davila-Chacon
 - Awarded with a Golden Nica (Ars Electronica 2020) in Digital arts ([see here](https://calls.ars.electronica.art/prix/winners/7320/))
 
 `2019-2020`
 **unknown title**
-
 - [Brice Gatinet](https://www.ircam.fr/person/brice-gatinet/), in collaboration with **Antoine Caillon**
 - Creation of _wavae_, initial work on real-time use of deep learning models
 
@@ -182,8 +189,13 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 ## Teaching
 
 `2020-now`
-**Machine learning project**
+**Internship supervision**
+- [Ilaria Manco](https://ilariamanco.com/)
+- [Nils Demerlé](https://scholar.google.fr/citations?user=27Pdhc8AAAAJ&hl=fr)
+- [Georges Lebellier](https://gle-bellier.github.io/)
 
+`2020-2023`
+**Machine learning project**
 - Master 2 ATIAM
 - 3 months project
 
