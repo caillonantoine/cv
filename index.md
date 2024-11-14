@@ -131,6 +131,7 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 [**MusicFX DJ v2**](https://labs.google/musicfx)
 * Work done as part of the [Magenta](https://magenta.tensorflow.org/) team (Google DeepMind)
 * Designed, built, trained and deployed the new version of the MusicFX DJ model
+* [Google DeepMind blogpost](https://deepmind.google/discover/blog/new-generative-ai-tools-open-the-doors-of-music-creation/)
 * jax / c++ / proto
 
 `2022`
