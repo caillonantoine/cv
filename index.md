@@ -125,26 +125,35 @@ Neural audio synthesis, real-time implementation of deep generative models, arti
 - Adrien Bitton, Philippe Esling, **Antoine Caillon**, Martin Fouilleul
 - DaFX 2019
 
-## Repositories
+## Projects
+
+`2024`
+[**MusicFX DJ v2**](https://labs.google/musicfx)
+* Work done as part of the [Magenta](https://magenta.tensorflow.org/) team (Google DeepMind)
+* Designed, built, trained and deployed the new version of the MusicFX DJ model
+* jax / c++ / proto
 
 `2022`
 [**nn~ : a Max/MSP external for real-time ai audio processing**](https://github.com/acids-ircam/nn_tilde)
 
-- **Antoine Caillon**
+- main researcher / developer **Antoine Caillon**
 - open source code for the nn~ external
+- torch / c++ / c
 
 `2021-2022`
 [**RAVE: Official implementation**](https://github.com/caillonantoine/RAVE)
 
-- **Antoine Caillon**
+- main researcher / developer **Antoine Caillon**
 - open source code for the RAVE model
+- torch
 
 `2020`
 [**ddsp_pytorch**](https://github.com/acids-ircam/ddsp_pytorch)
 
-- **Antoine Caillon**
+- main researcher / developer **Antoine Caillon**
 - Based on the work from _magenta_
 - Real-time implementation of the DDSP model
+- torch / c++ / c
 
 
 ## Artistic collaborations
